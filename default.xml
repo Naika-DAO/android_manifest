@@ -1107,7 +1107,7 @@
 
   <!-- unused AOSP repos -->
   <include name="snippets/remove.xml" />
-  <!-- dotOS Custom repos -->
-  <include name="snippets/dot.xml" />
+  <!-- naikaOS Custom repos -->
+  <include name="snippets/naika.xml" />
 
 </manifest>
