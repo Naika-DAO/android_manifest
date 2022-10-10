@@ -76,6 +76,9 @@
   <project path="external/gptfdisk" name="android_external_gptfdisk" remote="dot" />
   <project path="external/guice" name="android_external_guice" remote="dot" />
   <project path="external/icu" name="android_external_icu" remote="dot" />
+  <project path="external/kotlinc" name="android_external_kotlinc" remote="naika" />
+  <project path="external/kotlinx.atomicfu" name="android_external_kotlinx.atomicfu" remote="naika" />
+  <project path="external/kotlinx.coroutines" name="android_external_kotlinx.coroutines" remote="naika" />
   <project path="external/libcxx" name="android_external_libcxx" remote="dot" />
   <project path="external/perfetto" name="android_external_perfetto" remote="dot" />
   <project path="external/selinux" name="android_external_selinux" remote="dot" />
