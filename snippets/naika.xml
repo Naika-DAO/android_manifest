@@ -102,6 +102,8 @@
   <project path="external/ant-wireless/antradio-library" name="android_external_ant-wireless_antradio-library" remote="dot" />
   <project path="external/ant-wireless/hidl" name="android_external_ant-wireless_hidl" remote="dot" />
 
+  <!-- Naika External repos -->
+  <project path="external/naika" name="NaikaPay-Android-Library" remote="naika" />
   <project path="external/uikit" name="android_external_uikit" remote="naika" />
 
   <!-- frameworks repos -->
