@@ -84,6 +84,7 @@
     <remove-project name="platform/external/kotlinc" />
     <remove-project name="platform/external/kotlinx.coroutines" />
     <remove-project name="platform/external/kotlinx.atomicfu" />
+    <remove-project name="platform/external/kotlinx.metadata" />
     <remove-project name="platform/external/selinux" />
     <remove-project name="platform/external/tinyalsa" />
     <remove-project name="platform/external/tinycompress" />
