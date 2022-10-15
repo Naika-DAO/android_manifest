@@ -173,15 +173,15 @@
   <project path="hardware/qcom-caf/msm8996/audio" name="android_hardware_qcom-caf_msm8996_audio" remote="dot" />
   <project path="hardware/qcom-caf/msm8996/display" name="android_hardware_qcom-caf_msm8996_display" remote="dot" />
   <project path="hardware/qcom-caf/msm8996/media" name="android_hardware_qcom-caf_msm8996_media" remote="dot" />
-  <project path="hardware/qcom-caf/sm8150/audio" name="android_hardware_qcom-caf_sm8150_audio" remote="dot" />
-  <project path="hardware/qcom-caf/sm8150/display" name="android_hardware_qcom-caf_sm8150_display" remote="dot" />
-  <project path="hardware/qcom-caf/sm8150/media" name="android_hardware_qcom-caf_sm8150_media" remote="dot" />
+  <project path="hardware/qcom-caf/sm8150/audio" name="LineageOS/android_hardware_qcom_audio" revision="lineage-19.1-caf-sm8150" remote="github" />
+  <project path="hardware/qcom-caf/sm8150/display" name="LineageOS/android_hardware_qcom_display" revision="lineage-19.1-caf-sm8150" remote="github" />
+  <project path="hardware/qcom-caf/sm8150/media" name="LineageOS/android_hardware_qcom_media" revision="lineage-19.1-caf-sm8150" remote="github" />
   <project path="hardware/qcom-caf/sm8250/audio" name="LineageOS/android_hardware_qcom_audio" revision="lineage-19.1-caf-sm8250" remote="github" />
   <project path="hardware/qcom-caf/sm8250/display" name="LineageOS/android_hardware_qcom_display" revision="lineage-19.1-caf-sm8250" remote="github" />
   <project path="hardware/qcom-caf/sm8250/media" name="LineageOS/android_hardware_qcom_media" revision="lineage-19.1-caf-sm8250" remote="github" />
-  <project path="hardware/qcom-caf/sm8350/audio" name="android_hardware_qcom-caf_sm8350_audio" remote="dot" />
-  <project path="hardware/qcom-caf/sm8350/display" name="android_hardware_qcom-caf_sm8350_display" remote="dot" />
-  <project path="hardware/qcom-caf/sm8350/media" name="android_hardware_qcom-caf_sm8350_media" remote="dot" />
+  <project path="hardware/qcom-caf/sm8350/audio" name="LineageOS/android_hardware_qcom_audio" revision="lineage-19.1-caf-sm8350" remote="github" />
+  <project path="hardware/qcom-caf/sm8350/display" name="LineageOS/android_hardware_qcom_display" revision="lineage-19.1-caf-sm8350" remote="github" />
+  <project path="hardware/qcom-caf/sm8350/media" name="LineageOS/android_hardware_qcom_media" revision="lineage-19.1-caf-sm8350" remote="github" />
 
   <!-- packages repos -->
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="dot" />
