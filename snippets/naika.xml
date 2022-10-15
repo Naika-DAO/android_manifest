@@ -209,7 +209,7 @@
 
   <!-- System Repos -->
   <project path="system/bt" name="android_system_bt" groups="pdk" remote="dot" />
-  <project path="system/core" name="android_system_core" remote="dot" />
+  <project path="system/core" name="android_system_core" remote="naika" />
   <project path="system/media" name="android_system_media" remote="dot" />
   <project path="system/netd" name="android_system_netd" remote="dot" />
   <project path="system/qcom" name="android_system_qcom" remote="dot" />
