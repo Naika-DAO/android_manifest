@@ -41,7 +41,7 @@
   <project path="external/mimalloc" name="android_external_mimalloc" remote="naika" />
 
   <!-- Naika External repos -->
-  <project path="external/naikapay" name="NaikaPay-Android-Library" remote="naika" />
+  <project path="external/naikapay" name="android_external_naikapay" remote="naika" />
   <project path="external/uikit" name="android_external_uikit" remote="naika" />
 
   <!-- frameworks repos -->
@@ -60,10 +60,12 @@
   <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="naika" />
   <project path="packages/apps/SimpleDeviceConfig" name="android_packages_apps_SimpleDeviceConfig" remote="naika" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="naika" />
-  <project path="packages/apps/SystemUpdates" name="android_packages_apps_SystemUpdates" remote="naika" />
   <project path="packages/apps/Customizations" name="android_packages_apps_Customizations" remote="naika" />
+  <!--
+  <project path="packages/apps/SystemUpdates" name="android_packages_apps_SystemUpdates" remote="naika" />
   <project path="packages/apps/NaikaWallpapers" name="android_packages_apps_NaikaWallpapers" remote="naika" />
-  <project path="packages/apps/NaikaOnBoarder" name="android_packages_apps_NaikaOnBoarder" remote="naika" />
+  <project path="packages/apps/NaikaOnBoarder" name="android_packages_apps_NaikaOnBoarder" remote="naika" /> 
+  -->
   <project path="packages/apps/CarrierConfig" name="android_packages_apps_CarrierConfig" remote="naika" />
   <project path="packages/modules/Connectivity" name="android_packages_modules_Connectivity" remote="naika" />
   <project path="packages/modules/Bluetooth" name="android_packages_modules_Bluetooth" remote="naika" />
