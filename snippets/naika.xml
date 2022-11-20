@@ -3,7 +3,7 @@
 
   <remote  name="naika"
            fetch="https://github.com/Naika-DAO"
-           revision="refs/heads/zero" />
+           revision="refs/heads/naika-1.0" />
 
   <remote name="naika-gitlab"
           fetch="https://gitlab.com/naika-dao"

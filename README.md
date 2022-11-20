@@ -10,7 +10,7 @@ To initialize your local repository, use a command like this:
 
 ```bash
 
-repo init -u https://github.com/Naika-DAO/android_manifest.git -b zero
+repo init -u https://github.com/Naika-DAO/android_manifest.git -b naika-1.0
 
 ```
 
